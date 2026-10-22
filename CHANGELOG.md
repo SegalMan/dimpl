@@ -1,5 +1,7 @@
 # Unreleased
 
+  * Drop duplicate DTLS 1.2 epoch-1 records queued before peer encryption #190
+
 # 0.7.4
 
   * Preserve DTLS 1.3 client key shares on cookie-only retries #163
